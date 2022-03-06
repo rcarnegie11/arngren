@@ -1,0 +1,236 @@
+.opacity {
+  opacity: 100%;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.2));
+  left:0;
+  right:0;
+  bottom:0;
+  background-color:#87b5c3b3;
+  min-height : 100%;
+  min-width : 100%;
+  background-size:100% 100%;
+  background-repeat:no-repeat;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  filter: brightness(80%);
+} 
+
+
+.navbar-nav {
+  padding: 1%;
+  justify-content: space-evenly;
+  letter-spacing: 1px;
+  padding-left: 100px;
+  justify-items: auto;
+  
+}
+
+.bg-light {
+  color: black !important;
+  background-color: #ffffff !important;
+}
+
+.navbar.navbar-expand-lg.navbar-light {
+  background-color: #54686e;
+  background: rgb(0,46,59);
+  background: linear-gradient(90deg, rgba(0,46,59,0.700717787114846) 0%, rgba(0,22,36,0.7707457983193278) 100%, rgba(9,77,121,0.7287289915966386) 100%);
+  
+}
+
+
+.my-image-div{ 
+    background-image: url("collage_1.jpg"); 
+    background-size: cover; 
+  color: white;
+  position: center;
+} 
+.my-image-text{ 
+    position: center; 
+  font-size: 5em;
+  
+} 
+
+.w-50:hover {
+  filter: brightness(25%);
+}
+
+
+.overlay-dark {
+  background-color: rgba(black, 0.4);
+}
+
+.overlay-grey {
+  background-color: rgba(#596164, 0.4);
+}
+
+.overlay-yellow {
+  background-color: rgba(#fee140, 0.4);
+}
+
+.overlay-orange {
+  background-color: rgba(#c43a30, 0.4);
+}
+
+.overlay-blue-gradient {
+  background-image: linear-gradient(135deg, rgba(#96deda, 0.5) 0%, rgba(#537895, 0.7) 100%);
+}
+
+
+
+
+
+.form {
+  position: relative
+}
+
+.form .fa-search {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  color: #9ca3af
+}
+
+.form span {
+  position: absolute;
+  right: 17px;
+  top: 13px;
+  padding: 2px;
+  border-left: 1px solid #d1d5db
+}
+
+.left-pan {
+  padding-left: 7px
+}
+
+.left-pan i {
+  padding-left: 10px
+}
+
+.form-input {
+  height: 55px;
+  text-indent: 33px;
+  border-radius: 10px
+}
+
+.form-input:focus {
+  box-shadow: none;
+  border: none
+}
+
+
+.opacity {
+  opacity: 100%;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.2));
+  left:0;
+  right:0;
+  bottom:0;
+  background-color:#87b5c3b3;
+  min-height : 100%;
+  min-width : 100%;
+  background-size:100% 100%;
+  background-repeat:no-repeat;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  filter: brightness(80%);
+} 
+
+
+.navbar-nav {
+  padding: 1%;
+  justify-content: space-evenly;
+  letter-spacing: 1px;
+  padding-left: 100px;
+  justify-items: auto;
+  
+}
+
+.bg-light {
+  color: black !important;
+  background-color: #ffffff !important;
+}
+
+.navbar.navbar-expand-lg.navbar-light {
+  background-color: #54686e;
+  background: rgb(0,46,59);
+  background: linear-gradient(90deg, rgba(0,46,59,0.700717787114846) 0%, rgba(0,22,36,0.7707457983193278) 100%, rgba(9,77,121,0.7287289915966386) 100%);
+  
+}
+
+
+.my-image-div{ 
+	background-image: url("collage_1.jpg"); 
+	background-size: cover; 
+  color: white;
+  position: center;
+} 
+.my-image-text{ 
+	position: center; 
+  font-size: 5em;
+  
+} 
+
+.w-50:hover {
+  filter: brightness(25%);
+}
+
+
+.overlay-dark {
+  background-color: rgba(black, 0.4);
+}
+
+.overlay-grey {
+  background-color: rgba(#596164, 0.4);
+}
+
+.overlay-yellow {
+  background-color: rgba(#fee140, 0.4);
+}
+
+.overlay-orange {
+  background-color: rgba(#c43a30, 0.4);
+}
+
+.overlay-blue-gradient {
+  background-image: linear-gradient(135deg, rgba(#96deda, 0.5) 0%, rgba(#537895, 0.7) 100%);
+}
+
+
+
+
+
+.form {
+  position: relative
+}
+
+.form .fa-search {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  color: #9ca3af
+}
+
+.form span {
+  position: absolute;
+  right: 17px;
+  top: 13px;
+  padding: 2px;
+  border-left: 1px solid #d1d5db
+}
+
+.left-pan {
+  padding-left: 7px
+}
+
+.left-pan i {
+  padding-left: 10px
+}
+
+.form-input {
+  height: 55px;
+  text-indent: 33px;
+  border-radius: 10px
+}
+
+.form-input:focus {
+  box-shadow: none;
+  border: none
+}
