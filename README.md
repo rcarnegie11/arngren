@@ -10,4 +10,6 @@ Skylar
 Chan
 
 
-https://arngren.web.app/
+Redesign: https://arngren.web.app/
+
+Original site: https://arngren.net/
