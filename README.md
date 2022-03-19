@@ -2,7 +2,7 @@
 
 Arngren Redesign Project for COMP 2216 Formal Business Proposal
 
-Project Developed by:
+Developed by:
 
 Ryan
 
